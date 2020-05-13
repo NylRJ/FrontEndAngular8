@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "i9-frontend-cd-user-app"
+    }
+  },
+  "defaultProject": "i9-frontend-cd-user-app",
+  "cli": {
+    "analytics": "056edd59-3a24-46b9-b71e-32414ca15ac7"
+  }
 }
